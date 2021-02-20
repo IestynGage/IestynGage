@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there, I'm Iestyn
 
-<!--
-**IestynGage/IestynGage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently learning
 
-Here are some ideas to get you started:
+* NodeJS
+* TypeScript
+* DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & libaries:
+
+* Java - SpringBoot, Junit, Maven
+
+### Tools:
+
+* IDE - IntelliJ & Visual Studio Code
+* Postman
+
+### Fun Fact:
+
+* I like to kayak in my own time
+
+### Contact me
+
+<a target="_blank" href="https://www.linkedin.com/in/iestyngage/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a target="_blank" href="mailto:iestyngage@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
